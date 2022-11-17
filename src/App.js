@@ -5,9 +5,7 @@ function App() {
   const [toDos,setTodos]=useState([])
   const [toDo,setTodo]=useState('')
   useEffect(() => {
-window.addEventListener('click')
    return()=>{
-    window.removeEventListener  
     console.log('Unmounted');
    }
   }, [toDos]);
