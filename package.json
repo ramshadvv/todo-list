@@ -1,8 +1,8 @@
 {
   "name": "todo-list",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://ramshadvv.github.io/todo-list",
+    "private": true,
+    "homepage": "http://ramshadvv.github.io/todo-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
